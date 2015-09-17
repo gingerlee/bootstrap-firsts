@@ -1,0 +1,16 @@
+.dogs {
+  float: left;
+  width: 300px;
+}
+
+img {
+  width: 300px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.dogs h2 {
+  color: green;
+}
